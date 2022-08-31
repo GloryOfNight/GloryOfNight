@@ -29,13 +29,13 @@ I'm taking interest in:
 
 Checkout my:
   tools:
-    clang-format-all: tool that helps you reformat entire cxx project with very little time using already existing clang-format executable
+    clang-format-all: reformat entire cxx project with very little time using already existing clang-format executable
     - https://github.com/GloryOfNight/clang-format-all
 
   game engine experements:
-      dreco-engine-vulkan: game engine, using SDL2 and Vulkan API (for porpose to learn more about game engines, aswell as rendering via Vulkan)
+      dreco-engine-vulkan: game engine, using SDL2 and Vulkan API (to learn more about game engines, aswell as rendering via Vulkan)
       - https://github.com/GloryOfNight/dreco-engine-vulkan
-      dreco-engine: 2d game engine, using SDL2 and OpenGLES (for porpose to figure out game engines more)
+      dreco-engine: 2d game engine, using SDL2 and OpenGLES (to figure out game engines more)
       - https://github.com/GloryOfNight/dreco-engine
 
   unreal plugins
