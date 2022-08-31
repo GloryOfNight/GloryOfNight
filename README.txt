@@ -33,9 +33,9 @@ Checkout my:
     - https://github.com/GloryOfNight/clang-format-all
 
   game engine experements:
-      dreco-engine-vulkan: game engine, using SDL2 and Vulkan API (to learn more about game engines, aswell as rendering via Vulkan)
+      dreco-engine-vulkan: game engine, using sdl2 and vulkan (to learn more about rendering)
       - https://github.com/GloryOfNight/dreco-engine-vulkan
-      dreco-engine: 2d game engine, using SDL2 and OpenGLES (to figure out game engines more)
+      dreco-engine: 2d game engine, using sdl2 and opengles (to figure out game engines more)
       - https://github.com/GloryOfNight/dreco-engine
 
   unreal plugins
