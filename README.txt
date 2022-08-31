@@ -24,7 +24,7 @@ Titles I worked on:
 I'm taking interest in:
 - Real-time rendering over vulkan api
 - Game engine development
-- Open Source code to general public
+- Open Source code to general public under MIT licence
 - Creating free&open-source unreal plugins
 
 Checkout my:
