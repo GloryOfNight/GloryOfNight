@@ -3,8 +3,8 @@ Hi, I'm Siarhei Dziki aka @GloryOfNight and I'm a professional software engineer
 My career started at Jan 2018.
 
 My hard skills consist of:
-- proficient in c++14/17
-- proficient in Unreal Engine 4
+- proficiency in c++14/17
+- proficiency in Unreal Engine 4
 - quite familiar with CMake
 - familiar with development for PlayStation and Xbox consoles
 - familiar with solutions for P2P connectivity
