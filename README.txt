@@ -3,42 +3,42 @@ Hi, I'm Siarhei Dziki aka @GloryOfNight and I'm a professional software engineer
 My career started at Jan 2018.
 
 My hard skills consist of:
-- proficiency in c++14/17
-- proficiency in Unreal Engine 4
-- quite familiar with CMake
-- familiar with development for PlayStation and Xbox consoles
-- familiar with solutions for P2P connectivity
-- used to use Git command line and Git GUI
+- Proficiency in C++14/17
+- Proficiency in Unreal Engine 4
+- Quite familiar with CMake
+- Familiar with development for PlayStation and Xbox consoles
+- Familiar with solutions for P2P connectivity
+- Used to use Git command line and Git GUI
 
 Titles I worked on:
 - UFL (football simulator game for modern consoles)
-    unreal, c++:
-    - backend integration, p2p, consoles, generalist
+    Unreal, C++:
+    - Backend Integration, P2P, Consoles, Generalist
 - BombaNino (startup match3 game for mobile)
-    unreal, c++:
-    - gameplay, generalist
+    Unreal, C++:
+    - Gameplay, Generalist
 - BloodOfHeroes (viking souls-like pvp game for pc)
-    unreal:
-    - gameplay
+    Unreal:
+    - Gameplay
 
 I'm taking interest in:
-- real-time rendering over vulkan api
-- game engine development
-- open Source code to general public
-- creating free&open-source unreal plugins
+- Real-time rendering over vulkan api
+- Game engine development
+- Open Source code to general public
+- Creating free&open-source unreal plugins
 
 Checkout my:
-  tools:
+  Tools:
     clang-format-all: reformat entire cxx project with very little time using already existing clang-format executable
     - https://github.com/GloryOfNight/clang-format-all
 
-  game engine experements:
+  Game engine experements:
       dreco-engine-vulkan: game engine, using sdl2 and vulkan (to learn more about rendering)
       - https://github.com/GloryOfNight/dreco-engine-vulkan
       dreco-engine: 2d game engine, using sdl2 and opengles (to figure out game engines more)
       - https://github.com/GloryOfNight/dreco-engine
 
-  unreal plugins
+  Unreal Plugins
       sentry: integration of sentry analytics using http
       - https://github.com/GloryOfNight/UE4_Sentry
       firebase: integration of firebase analytics using sdk
