@@ -1,6 +1,6 @@
 Hi, I'm Siarhei Dziki aka @GloryOfNight and I'm a professional software engineer aswell as game developer.
 
-My career started at Jan 2018.
+My career started in Jan 2018.
 
 My hard skills consist of:
 - Proficiency in C++14/17
