@@ -5,9 +5,9 @@ My career started in Jan 2018.
 My hard skills consist of:
 - Proficiency in C++14/17
 - Proficiency in Unreal Engine 4
-- Quite familiar with CMake
+- Familiar with CMake
 - Familiar with development for PlayStation and Xbox consoles
-- Familiar with solutions for P2P connectivity
+- Familiar with solving P2P connectivity problems
 - Used to use Git command line and Git GUI
 
 Titles I worked on:
@@ -24,7 +24,7 @@ Titles I worked on:
 I'm taking interest in:
 - Real-time rendering over vulkan api
 - Game engine development
-- Open Source code to general public under MIT licence
+- Open source code to general public under MIT licence
 - Creating free&open-source unreal plugins
 
 Checkout my:
