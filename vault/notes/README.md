@@ -1,0 +1,1 @@
+Not so personal storage of personal notes to myself. Sometimes we all have need to make some notes, basicly thats it.
