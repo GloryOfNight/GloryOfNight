@@ -1,9 +1,13 @@
 Minimize amount of move and copy by using std::forward, case study from: [Moving Faster: Everyday Efficiency in Modern C++](https://youtu.be/LFv7XwgsdLY?t=2087 )
 
+
+std::forward allows you to pass the template arguments to other places, like object constructors without extra moves and copies.  
+It also makes life easier since you not relying on constructor arguments in your template and that making code more flexible.
+
 ```
-#include <vector>
-#include <string>
 #include <utility>
+#include <string>
+#include <vector>
 
 struct foo
 {
@@ -22,7 +26,7 @@ struct foo
 	foo(int i, double d, char c, STR&& s)
 		: _i{ i }, _d{ d }, _c{ c }, _s{ std::forward<STR>(s) }
 	{}
-
+	
 	int _i;
 	double _d;
 	char _c;
