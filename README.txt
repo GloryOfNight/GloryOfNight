@@ -2,21 +2,21 @@ Hi, I'm Siarhei Dziki aka @GloryOfNight and I'm a professional software engineer
 
 My career started in Jan 2018.
 
-My hard skills consist of:
+My skills consist of:
 - Proficiency in C++14/17
 - Proficiency in Unreal Engine 4
+- Familiar with crossplatform development (Windows, Linux, PlayStation, Xbox)
+- Familiar with P2P networking solutions
 - Familiar with CMake
-- Familiar with development for PlayStation and Xbox consoles
-- Familiar with solving P2P connectivity problems
-- Used to use Git command line and Git GUI
+- Used to use Git
 
 Titles I worked on:
 - UFL (football simulator game for modern consoles)
     Unreal, C++:
-    - Backend Integration, P2P, Consoles, Generalist
+    - Backend Integration, Matchmaking (w p2p & dedicated servers), Consoles development
 - BombaNino (startup match3 game for mobile)
     Unreal, C++:
-    - Gameplay, Generalist
+    - Gameplay, all-around generalist
 - BloodOfHeroes (viking souls-like pvp game for pc)
     Unreal:
     - Gameplay
@@ -33,9 +33,9 @@ Checkout my:
     - https://github.com/GloryOfNight/clang-format-all
 
   Game engine experements:
-      dreco-engine-vulkan: game engine, using sdl2 and vulkan (to learn more about rendering)
+      dreco-engine-vulkan: game engine, using sdl2 and vulkan
       - https://github.com/GloryOfNight/dreco-engine-vulkan
-      dreco-engine: 2d game engine, using sdl2 and opengles (to figure out game engines more)
+      dreco-engine: 2d game engine, using sdl2 and opengles with small matchline game on it
       - https://github.com/GloryOfNight/dreco-engine
 
   Unreal Plugins
