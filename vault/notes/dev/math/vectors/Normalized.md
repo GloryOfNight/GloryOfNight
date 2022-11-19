@@ -5,7 +5,7 @@ $\hat{\alpha\beta} = \frac{\vec{\alpha\beta}}{|\alpha\beta|} = \frac{Direction}{
 where $\vec{\alpha\beta}$ [[Direction]]
 and $|\alpha\beta|$ [[Length]]
 
-breaked to components, formula looks like:
+braked to components, formula looks like:
 $\hat{\alpha\beta} = \begin{bmatrix} \frac{\vec{\alpha\beta}_x}{|\alpha\beta|} \\ \frac{\vec{\alpha\beta}_y}{|\alpha\beta|} \\ \frac{\vec{\alpha\beta}_z}{|\alpha\beta|} \end{bmatrix}$
 
 code example:

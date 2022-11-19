@@ -1,4 +1,4 @@
-To find a direction going from $\alpha$ to $\beta$ substruct two vectors. Substruction done via substructing each component of destination substructed to a each component of origin vector. Note that destination must come first and origin the second.
+To find a direction going from $\alpha$ to $\beta$ subtract two vectors. Subtraction done via subtracting each component of destination subtracted to a each component of origin vector. Note that destination must come first and origin the second.
 
 base formula:
 $\vec{\alpha\beta} = \beta - \alpha$

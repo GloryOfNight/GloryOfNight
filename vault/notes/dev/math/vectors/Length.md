@@ -13,6 +13,6 @@ return sqrt(pow(v_direction.x, 2) + pow(v_direction.y, 2) + pow(v_direction.z, 2
 } 
 ```
 
-Interesting note, when comparing length of two vectors sqrt operation is unneccesery, since sqrt cancel each other out.
+Interesting note, when comparing length of two vectors sqrt operation is unnecessary, since sqrt cancel each other out.
 
 [[Vectors]]
