@@ -4,7 +4,7 @@ My career started in Jan 2018.
 
 My skills consist of:
 - Proficiency in C++14/17
-- Proficiency in Unreal Engine 4
+- Proficiency in Unreal Engine
 - Familiar with crossplatform development (Windows, Linux, PlayStation, Xbox)
 - Familiar with P2P networking solutions
 - Familiar with CMake
