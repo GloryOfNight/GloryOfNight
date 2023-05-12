@@ -19,7 +19,7 @@ Small guide how to install (mostly) any cmake library on Windows.
 7. To finish. Open Start menu, type and open: "Edit environment variables for your system".
 8. Find and open: Environment Variables
 9. Find "System Variables" list and click "New" at the bottom.
-10. Type, variable name: SDL2 or SDL3 depending on which version you using.
+10. Type, variable name: "SDL2" or "SDL3" depending on which version you using.
 11. Click "Browse Directory" and open SDL folder that was installed by cmake earlier.
 12. You might need PC restart and your IDE for changed to work. 
 
