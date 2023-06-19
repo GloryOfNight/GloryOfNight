@@ -3,7 +3,7 @@ Hi, I'm Siarhei Dziki aka @GloryOfNight and I'm a professional software engineer
 My career started in Jan 2018.
 
 My skills consist of:
-- Proficiency in C++14/17
+- Proficiency in C++17/20
 - Proficiency in Unreal Engine
 - Familiar with crossplatform development (Windows, Linux, PlayStation, Xbox)
 - Familiar with P2P networking solutions
@@ -13,7 +13,7 @@ My skills consist of:
 Titles I worked on:
 - UFL (football simulator game for modern consoles)
     Unreal, C++:
-    - Backend Integration, Matchmaking (w p2p & dedicated servers), Consoles development
+    - Backend Integration, Matchmaking (with p2p & dedicated servers support), Consoles development
 - BombaNino (startup match3 game for mobile)
     Unreal, C++:
     - Gameplay, all-around generalist
