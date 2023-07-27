@@ -6,7 +6,6 @@ My skills consist of:
 - Proficiency in C++17/20
 - Proficiency in Unreal Engine
 - Familiar with crossplatform development (Windows, Linux, PlayStation, Xbox)
-- Familiar with P2P networking solutions
 - Familiar with CMake
 - Used to use Git
 
