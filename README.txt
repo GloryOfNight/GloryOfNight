@@ -13,7 +13,7 @@ My skills consist of:
 Titles I worked on:
 - UFL (football simulator game for modern consoles)
     Unreal, C++:
-    - Backend Integration, Matchmaking (with p2p & dedicated servers support), Consoles development
+    - Backend Integration, Matchmaking (with client-server & dedicated servers), Consoles development
 - BombaNino (startup match3 game for mobile)
     Unreal, C++:
     - Gameplay, all-around generalist
