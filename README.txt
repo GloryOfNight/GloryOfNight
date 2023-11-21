@@ -32,7 +32,7 @@ Checkout my:
     - https://github.com/GloryOfNight/clang-format-all
 
   Game engine experements:
-      dreco-engine-vulkan: game engine, using sdl2 and vulkan
+      dreco-engine-vulkan: game engine, using sdl and vulkan
       - https://github.com/GloryOfNight/dreco-engine-vulkan
       dreco-engine: 2d game engine, using sdl2 and opengles with small matchline game on it
       - https://github.com/GloryOfNight/dreco-engine
