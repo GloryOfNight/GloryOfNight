@@ -10,15 +10,23 @@ My skills consist of:
 - Used to use Git
 
 Titles I worked on:
-- UFL (football simulator game for modern consoles)
+- UFL
     Unreal, C++:
-    - Dedicated server & P2P matches, Backend Intergration, Consoles development (at early stages)
-- BombaNino (startup match3 game for mobile)
+    - Implement network game mode via P2P
+    - Launch game servers in the cloud, including the startup cycle for network games such as ranked matches.
+    - Develop and manage server features, including Agones and game server forking, enabling multiple match instances on a single server.
+    - Support all game server issues, specializing in troubleshooting, problem analysis, and error correction.
+    - Contribute to the overall stability and performance of the game by using expertise in C++, standards, multithreaded programming, build systems, and UE network.
+
+- BombaNino
     Unreal, C++:
-    - Gameplay, all-around generalist
+    - Implement gameplay mechanics
+    - Implement meta gameplay and UI
+    - Integrate different analytics solutions
+
 - BloodOfHeroes (viking souls-like pvp game for pc)
     Unreal:
-    - Gameplay
+    - Integration of varios gameplay animations in project
 
 I'm taking interest in:
 - Real-time rendering over vulkan api
