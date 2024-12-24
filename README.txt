@@ -42,6 +42,8 @@ Checkout my:
     - https://github.com/GloryOfNight/udp-relay
 
   Game engine experements:
+      glory-streamer-app: engine for using it in my YouTube and Twitch APIs experenets
+      - https://github.com/GloryOfNight/glory-streamer-app
       dreco-engine-vulkan: game engine, using sdl and vulkan
       - https://github.com/GloryOfNight/dreco-engine-vulkan
       dreco-engine: 2d game engine, using sdl2 and opengles with small matchline game on it
