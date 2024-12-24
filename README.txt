@@ -42,17 +42,17 @@ Checkout my:
     - https://github.com/GloryOfNight/udp-relay
 
   Game engine experements:
-      glory-streamer-app: engine for using it in my YouTube and Twitch APIs experenets
-      - https://github.com/GloryOfNight/glory-streamer-app
-      dreco-engine-vulkan: game engine, using sdl and vulkan
-      - https://github.com/GloryOfNight/dreco-engine-vulkan
-      dreco-engine: 2d game engine, using sdl2 and opengles with small matchline game on it
-      - https://github.com/GloryOfNight/dreco-engine
+    glory-streamer-app: engine for using it in my YouTube and Twitch APIs experenets
+    - https://github.com/GloryOfNight/glory-streamer-app
+    dreco-engine-vulkan: game engine, using sdl and vulkan
+    - https://github.com/GloryOfNight/dreco-engine-vulkan
+    dreco-engine: 2d game engine, using sdl2 and opengles with small matchline game on it
+    - https://github.com/GloryOfNight/dreco-engine
 
   Unreal Plugins
-      sentry: integration of sentry analytics using http
-      - https://github.com/GloryOfNight/UE4_Sentry
-      firebase: integration of firebase analytics using sdk
-      - https://github.com/GloryOfNight/UE4_FirebaseAnalytics
-      android-in-app-updates: call update app popup if update is available with one simple function
-      - https://github.com/GloryOfNight/UE4_AndroidInAppUpdates
+    sentry: integration of sentry analytics using http
+    - https://github.com/GloryOfNight/UE4_Sentry
+    firebase: integration of firebase analytics using sdk
+    - https://github.com/GloryOfNight/UE4_FirebaseAnalytics
+    android-in-app-updates: call update app popup if update is available with one simple function
+    - https://github.com/GloryOfNight/UE4_AndroidInAppUpdates
