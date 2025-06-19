@@ -36,6 +36,8 @@ I'm taking interest in:
 
 Checkout my:
   Tools:
+    cpp-cmake-template: my personal template repository for a C++ CMake LLVM based projects
+    - https://github.com/GloryOfNight/cpp-cmake-template
     clang-format-all: reformat entire cxx project with very little time using already existing clang-format executable
     - https://github.com/GloryOfNight/clang-format-all
     udp-relay: simple udp relay to establish connection between two peers
