@@ -31,8 +31,8 @@ Titles I worked on:
 I'm taking interest in:
 - Real-time rendering over vulkan api
 - Game engine development
-- Open source code to general public under MIT licence
-- Creating free&open-source unreal plugins
+- Open source code to general public under public use licences
+- Creating free & open unreal plugins
 
 Checkout my:
   Tools:
@@ -54,6 +54,8 @@ Checkout my:
     - https://github.com/GloryOfNight/dreco-engine
 
   Unreal Plugins
+    rcon: implementation of steam rcon server
+    - https://github.com/GloryOfNight/UnrealRCON
     sentry: integration of sentry analytics using http
     - https://github.com/GloryOfNight/UE4_Sentry
     firebase: integration of firebase analytics using sdk
