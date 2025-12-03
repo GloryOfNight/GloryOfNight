@@ -54,7 +54,7 @@ Checkout my:
     - https://github.com/GloryOfNight/dreco-engine
 
   Unreal Plugins
-    rcon: implementation of steam rcon server
+    rcon: implementation of source rcon protocol for Unreal
     - https://github.com/GloryOfNight/UnrealRCON
     sentry: integration of sentry analytics using http
     - https://github.com/GloryOfNight/UE4_Sentry
