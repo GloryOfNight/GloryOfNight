@@ -46,8 +46,6 @@ Checkout my:
   Game engine experements:
     lune: yet another experements with sdl3, vulkan1.3, glm
     - https://github.com/GloryOfNight/lune
-    glory-streamer-app: engine for using it in my YouTube and Twitch APIs integration experements
-    - https://github.com/GloryOfNight/glory-streamer-app
     dreco-engine-vulkan: game engine, using sdl and vulkan
     - https://github.com/GloryOfNight/dreco-engine-vulkan
     dreco-engine: 2d game engine, using sdl2 and opengles with small matchline game on it
