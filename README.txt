@@ -19,7 +19,7 @@ Titles I worked on:
     - - Own NetDriver managment that makes P2P connections possible when needed
     - Enable IPv6 support across all platforms and game servers
     - Implement managment system for client matchmaking that responsible for creation and joining game matches
-    - Implement Sentry API intergration via HTTP2, which enables cross-platform integration, SDK independent
+    - Implement Sentry API intergration via HTTP, which enables cross-platform integration, SDK independent
     - Implement in-game traceroute functionality for better tracking of networking issues
     - Launch and integrate game servers in the cloud solution
     - Develop and manage several server features:
